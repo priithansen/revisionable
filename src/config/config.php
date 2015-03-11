@@ -12,6 +12,7 @@ return [
     | Supported options:
     |  - illuminate
     |  - sentry
+    |  - tymon.jwt.auth
     */
     'userprovider' => 'illuminate',
 
